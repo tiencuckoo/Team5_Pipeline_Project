@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('Clone') {
             steps {
-               git 'https://github.com/tiencuckoo/Team5_ProjectDevOps.git'
+               git 'https://github.com/tiencuckoo/Team5_Pipeline_Project.git'
             }
         }
         stage('Build') {
