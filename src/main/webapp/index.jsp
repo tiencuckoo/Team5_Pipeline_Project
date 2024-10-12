@@ -48,7 +48,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Rock, Paper, Scissors!</h1>
+        <h1>This is Rock, Paper, Scissors!</h1>
         <div>
             <button class="choice" onclick="playGame('rock')">Rock</button>
             <button class="choice" onclick="playGame('paper')">Paper</button>
